@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lexikonzudensch06merggoog/lexikonzudensch06merggoog_0006.png"; bbox 0 0 4959 6925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 886 879 1541 1060">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 886 879 1541 1060">
+     <span class='ocr_line' id='line_1_1' title="bbox 886 879 1541 1060; baseline 0.014 -8"><span class='ocrx_word' id='word_1_1' title='bbox 886 879 1541 1060; x_wconf 85' lang='lat' dir='ltr'>LEXIKON</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 408 1773 2017 1988">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 408 1773 2017 2070">
+     <span class='ocr_line' id='line_1_2' title="bbox 408 1773 2017 1988; baseline 0.006 -10"><span class='ocrx_word' id='word_1_2' title='bbox 408 1773 916 1984; x_wconf 75' lang='lat' dir='ltr'>REDEN</span> <span class='ocrx_word' id='word_1_3' title='bbox 1033 1775 1313 1988; x_wconf 74' lang='lat' dir='ltr'><strong>DEs</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1440 1774 2017 1988; x_wconf 68' lang='lat' dir='ltr'>CICERO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 792 2317 1635 2433">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 792 2317 1635 2433">
+     <span class='ocr_line' id='line_1_3' title="bbox 792 2317 1635 2433; baseline 0.004 -7"><span class='ocrx_word' id='word_1_5' title='bbox 792 2336 868 2426; x_wconf 75' lang='grc' dir='ltr'><strong>Μιτ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 895 2335 1081 2429; x_wconf 72' lang='lat' dir='ltr'><strong>ANGABE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1106 2317 1423 2433; x_wconf 62' lang='lat' dir='ltr'><strong>sfflmfflcflssss</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1449 2339 1635 2430; x_wconf 70' lang='lat' dir='ltr'>smfflN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 965 3097 1486 3269">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 965 3097 1486 3269">
+     <span class='ocr_line' id='line_1_4' title="bbox 965 3097 1486 3269; baseline -0.006 -54"><span class='ocrx_word' id='word_1_9' title='bbox 965 3097 1046 3216; x_wconf 90' lang='lat' dir='ltr'><strong>H.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1091 3098 1486 3269; x_wconf 49' lang='lat' dir='ltr'><strong>QERGUET.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2484 6916">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2484 6916">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2484 6916; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2484 6916; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
